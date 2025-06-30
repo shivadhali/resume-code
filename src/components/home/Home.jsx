@@ -72,7 +72,7 @@ const Home = () => {
         <span className="home__education">{education}</span>
         <HeaderSocial />
 
-        <a href="#contact" className="btn">Hire Me</a>
+        <a href="mailto:shivadhali89@gmail.com" className="btn">Hire Me</a>
 
         <ScrollDown />
       </div>
